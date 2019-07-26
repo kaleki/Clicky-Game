@@ -1,0 +1,67 @@
+[
+    {
+      "id": 1,
+      "image": "bucks.jpg"
+    },
+    {
+      "id": 2,
+      "image": "bulls.jpg"    
+    },
+    {
+      "id": 3,
+      "image": "cavs.jpg"
+    },
+    {
+      "id": 4,
+      "image": "celtics.jpg" 
+    },
+    {
+      "id": 5,
+      "image": "clippers.jpg"
+    },
+    {
+      "id": 6,
+      "image": "heat.jpg"
+    },
+    {
+      "id": 7,
+      "image": "jazz.jpg"
+    },
+    {
+      "id": 8,
+      "image": "knicks.jpg"
+    },
+    {
+      "id": 9,
+      "image": "lakers.jpg"
+    },
+    {
+      "id": 10,
+      "image": "magic.jpg"
+    },
+    {
+      "id": 11,
+      "image": "pelicans.jpg"
+    },
+    {
+      "id": 12,
+      "image": "raptors.jpg"
+    },
+    {
+        "id": 13,
+        "image": "rockets.jpg"
+    },
+    {
+        "id": 14,
+        "image": "sixer.jpg"
+    },
+    {
+        "id": 15,
+        "image": "spurs.jpg"
+    },
+    {
+        "id": 16,
+        "image": "warriors.jpg"
+    }
+  ]
+  
