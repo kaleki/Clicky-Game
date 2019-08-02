@@ -1,67 +1,67 @@
 [
     {
       "id": 1,
-      "image": "bucks.jpg"
+      "image": "/images/bucks.jpg"
     },
     {
       "id": 2,
-      "image": "bulls.jpg"    
+      "image": "/images/bulls.jpg"    
     },
     {
       "id": 3,
-      "image": "cavs.jpg"
+      "image": "/images/cavs.jpg"
     },
     {
       "id": 4,
-      "image": "celtics.jpg" 
+      "image": "/images/celtics.jpg" 
     },
     {
       "id": 5,
-      "image": "clippers.jpg"
+      "image": "/images/clippers.jpg"
     },
     {
       "id": 6,
-      "image": "heat.jpg"
+      "image": "/images/heat.jpg"
     },
     {
       "id": 7,
-      "image": "jazz.jpg"
+      "image": "/images/jazz.jpg"
     },
     {
       "id": 8,
-      "image": "knicks.jpg"
+      "image": "/images/knicks.jpg"
     },
     {
       "id": 9,
-      "image": "lakers.jpg"
+      "image": "/images/lakers.jpg"
     },
     {
       "id": 10,
-      "image": "magic.jpg"
+      "image": "/images/magic.jpg"
     },
     {
       "id": 11,
-      "image": "pelicans.jpg"
+      "image": "/images/pelicans.jpg"
     },
     {
       "id": 12,
-      "image": "raptors.jpg"
+      "image": "/images/raptors.jpg"
     },
     {
         "id": 13,
-        "image": "rockets.jpg"
+        "image": "/images/rockets.jpg"
     },
     {
         "id": 14,
-        "image": "sixer.jpg"
+        "image": "/images/sixers.jpg"
     },
     {
         "id": 15,
-        "image": "spurs.jpg"
+        "image": "/images/spurs.jpg"
     },
     {
         "id": 16,
-        "image": "warriors.jpg"
+        "image": "/images/warriors.jpg"
     }
   ]
   

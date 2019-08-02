@@ -1,16 +1,17 @@
 .card{
-    height: 300px;
+    height: 200px;
     margin: 1rem;
-    width: 300px;
+    width: 200px;
+    background-color: white;
     position: relative;
     box-shadow: 0 3px 6px #999, 0 3px 6px #999;
     box-shadow: 0 3px 6px #999, 0 3px 6px #999;
 }
 
 .card > .img-container {
-    height: 60%;
+    height: 100%;
     overflow: hidden;
   }
   .card > .img-container > img {
-    width: 60%
+    width: 100%
   }
