@@ -7,7 +7,7 @@ const Header = props => (
            {props.children} 
         </div>
         <div className = "score">
-            Score: {props.score}/ Highscore: 16 {props.highscore}
+            Score: {props.score} Highscore: 16 
         </div>
     </div>
 );

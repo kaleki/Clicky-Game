@@ -1,7 +1,6 @@
 {
   "name": "clicky-game",
   "version": "0.1.0",
-  "homepage": "https://kaleki.github.io/Clicky-Game",
   "private": true,
   "dependencies": {
     "gh-pages": "^2.1.0",
@@ -30,6 +29,7 @@
       "last 1 chrome version",
       "last 1 firefox version",
       "last 1 safari version"
-    ]
+    ],
+    "homepage": "https://kaleki.github.io/Clicky-Game"
   }
 }
