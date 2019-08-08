@@ -1,7 +1,7 @@
 [
     {
       "id": 1,
-      "image": "/images/bucks.jpg"
+      "image": "./images/bucks.jpg"
     },
     {
       "id": 2,
